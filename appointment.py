@@ -1,6 +1,5 @@
-print("Hospital ONLINE Appointment Booking System")
+print("Advanced Hospital Online Appointment Booking System")
 print("Patient Registration Module")
-
 print("Login Module")
 username = input("Enter username: ")
 password = input("Enter password: ")
